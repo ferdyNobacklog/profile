@@ -1,0 +1,242 @@
+{
+    "personal": {
+        "fullName": "Ferdy Barliansyah R",
+        "nickname": "Ferdy",
+        "title": "Fullstack Developer",
+        "bio": "I build scalable web applications with modern technologies. Passionate about creating exceptional user experiences and clean, maintainable code.",
+        "about": [
+            "Hi, I'm Ferdy Barliansyah R, a passionate developer specializing in building robust and scalable web applications that deliver exceptional user experiences. With expertise spanning both frontend and backend technologies, I bring ideas to life through clean code and innovative solutions.",
+            "My journey in software development has been marked by continuous learning and adaptation to new technologies. I thrive in collaborative environments and enjoy tackling complex challenges that push the boundaries of what's possible.",
+            "When I'm not coding, you'll find me contributing to open-source projects, exploring new tech stacks, or sharing knowledge with the developer community."
+        ]
+    },
+    "social": {
+        "github": "https://github.com/crunchy89",
+        "linkedin": "https://linkedin.com/in/ferdy-barliansyah-r",
+        "email": "ferdybarliansyah@gmail.com"
+    },
+    "contact": {
+        "email": "ferdybarliansyah@gmail.com",
+        "phone": "+62 878-4991-0278",
+        "location": "Bali, Indonesia"
+    },
+    "skills": {
+        "categories": [
+            {
+                "category": "Frontend",
+                "skills": [
+                    {
+                        "name": "React",
+                        "level": 80
+                    },
+                    {
+                        "name": "TypeScript",
+                        "level": 80
+                    },
+                    {
+                        "name": "JavaScript",
+                        "level": 80
+                    },
+                    {
+                        "name": "Tailwind CSS",
+                        "level": 80
+                    },
+                    {
+                        "name": "Next.js",
+                        "level": 80
+                    }
+                ]
+            },
+            {
+                "category": "Backend",
+                "skills": [
+                    {
+                        "name": "Node.js",
+                        "level": 80
+                    },
+                    {
+                        "name": "Golang",
+                        "level": 70
+                    },
+                    {
+                        "name": "PHP",
+                        "level": 70
+                    },
+                    {
+                        "name": "GraphQL",
+                        "level": 60
+                    },
+                    {
+                        "name": "REST APIs",
+                        "level": 80
+                    }
+                ]
+            },
+            {
+                "category": "Database",
+                "skills": [
+                    {
+                        "name": "MongoDB",
+                        "level": 80
+                    },
+                    {
+                        "name": "MySQL",
+                        "level": 80
+                    },
+                    {
+                        "name": "Redis",
+                        "level": 80
+                    }
+                ]
+            },
+            {
+                "category": "Tools & DevOps",
+                "skills": [
+                    {
+                        "name": "Git",
+                        "level": 95
+                    },
+                    {
+                        "name": "Docker",
+                        "level": 80
+                    },
+                    {
+                        "name": "AWS",
+                        "level": 75
+                    }
+                ]
+            }
+        ]
+    },
+    "experience": [
+        {
+            "type": "work",
+            "title": "Fullstack Developer",
+            "company": "PT Moving Presentation Bali",
+            "location": "Onsite in Bali, Indonesia",
+            "period": "2024 - Present",
+            "description": [
+                "Developed and maintained web applications for the company's portfolio",
+                "Built scalable backend systems using Node.js and PHP",
+                "Collaborated with cross-functional teams to deliver high-quality products",
+                "Implemented new features and improvements to the company's portfolio",
+                "Upgrade the company's portfolio from react to next.js"
+            ],
+            "technologies": [
+                "React",
+                "Next.js",
+                "Node.js",
+                "TypeScript",
+                "MySQL",
+                "Laravel",
+                "NestJS",
+                "AWS"
+            ]
+        },
+        {
+            "type": "work",
+            "title": "Software Developer",
+            "company": "Ubersnap Pte Ltd",
+            "location": "Remote in Indonesia",
+            "period": "2022 - 2024",
+            "description": [
+                "Collaborate with designers to create intuitive and responsive web interfaces.",
+                "Leverage modern technologies and best practices to build user-friendly experiences.",
+                "Ensure cross-browser compatibility and optimal performance.",
+                "Analyze and modify existing software systems to enhance functionality and address user requirements.",
+                "Design, construct, and test end-to-end applications, ensuring robustness and scalability.",
+                "Implement RESTful APIs using the Echo framework in Golang for seamless communication between front-end and back-end components.",
+                "Develop real-time communication features using WebSockets.",
+                "Enable bidirectional communication between clients and servers for dynamic updates and notifications.",
+                "Optimize WebSocket connections for efficiency and responsiveness.",
+                "Build desktop applications cloud print using electron, nextjs, andC#",
+                "Consider platform-specific requirements and user experience when designing desktop interfaces.",
+                "Ensure smooth integration with existing systems and APIs.",
+                "Implement face recognition capabilities within the application.",
+                "Collaborate with cross-functional teams to create microservices.",
+                "Define service boundaries based on business demands and organizational hierarchy.",
+                "Optimize communication between microservices for scalability and maintainability.",
+                "Work closely with other engineers, product managers, and stakeholders.",
+                "Participate in code reviews, knowledge sharing, and architectural discussions.",
+                "Contribute to a positive team culture and foster innovation."
+            ],
+            "technologies": [
+                "Microservices",
+                "TypeScript",
+                "Golang",
+                "MongoDB",
+                "Docker",
+                "Next.js",
+                [
+                    "C#",
+                    "Electron"
+                ]
+            ]
+        },
+        {
+            "type": "work",
+            "title": "Teacher",
+            "company": "SMKS Al-Hasanain NU Beraim",
+            "location": "Onsite in West Nusa Tenggara, Indonesia",
+            "period": "2019 - 2022",
+            "description": [
+                "Determine the structure of the website pages.",
+                "Maximize the user experience (UX).",
+                "Ensures harmony between functionality and aesthetics.",
+                "Ensuring website compatibility.",
+                "Pay attention to website optimization.",
+                "Report directly to project manager."
+            ],
+            "technologies": [
+                "PHP",
+                "MySQL",
+                "JavaScript",
+                "CSS",
+                "Bootstrap",
+                "OOP",  
+                "HTML",
+                "jQuery",
+                "Laravel",
+                "CodeIgniter"
+            ]
+        },
+        {
+            "type": "work",
+            "title": "Fullstack Developer",
+            "company": "University of Qomarul Huda",
+            "location": "Onsite in West Nusa Tenggara, Indonesia",
+            "period": "2021 - 2022",
+            "description": [
+                "teaching OOP and Databases"
+            ],
+            "technologies": [
+                "PHP",
+                "MySQL",
+                "JavaScript",
+                "CSS",
+                "Bootstrap",
+                "OOP",  
+                "HTML",
+                "jQuery",
+                "Laravel",
+                "CodeIgniter"
+            ]
+        },
+        {
+            "type": "education",
+            "title": "Bachelor of Science in Computer Science",
+            "company": "STMIK Lombok",
+            "location": "Praya, West Nusa Tenggara, Indonesia",
+            "period": "2017 - 2022",
+            "description": [
+                "Graduated Magna Cum Laude",
+                "Relevant coursework: Data Structures, Algorithms, Database Systems, Web Development",
+                "Member of Computer Science Student Association",
+                "Completed senior capstone project on distributed systems"
+            ]
+        }
+    ],
+    "resume": {
+        "url": "/resume.pdf"
+    }
+}
